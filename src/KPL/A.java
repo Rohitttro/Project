@@ -8,4 +8,7 @@ public void m1() {
 public void m2() {
 	System.out.println("B--------C");
 }
+	public void m3(){
+	system.out.println("C--------D")
+	}
 }
